@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.svg": "xml"
+    },
+    "workbench.editor.defaultBinaryEditor": "default"
+}
